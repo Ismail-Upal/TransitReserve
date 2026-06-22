@@ -2,7 +2,7 @@
 
 # TransitReserve
 
-A full-featured, multi-modal transport reservation system – bus, train, plane – built with ASP.NET Core and PostgreSQL. Designed for real-time seat booking, live GPS tracking, secure payments, and a scalable, loosely coupled architecture.
+A full-featured, Multi-Modal Transport Reservation & Billing Platform – bus, train, plane – built with ASP.NET Core and PostgreSQL. Designed for real-time seat booking, live GPS tracking, secure payments, and a scalable, loosely coupled architecture.
 
 [![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet)](https://dotnet.microsoft.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?logo=postgresql)](https://www.postgresql.org/)
